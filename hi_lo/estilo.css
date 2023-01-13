@@ -1,0 +1,16 @@
+body{
+    width: 1200px;
+    margin: auto;
+    background-color: rgb(169, 235, 169);
+    text-align: center;
+}
+
+h1#titulo{
+    width: 800px; 
+    margin: auto;  
+    background-image: url(carts/cabecera.jpg);
+    padding: 0 20px 20px 20px; 
+    border: 2px solid black;
+    color: #fff;
+    font-family:Arial, Helvetica, sans-serif;
+}
